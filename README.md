@@ -38,8 +38,8 @@ title="py" width="60" height="60"/>&nbsp;
 
 ### **Статистика**
 
-<img src="![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrlawsuit&theme=github)"/>
-<img src="![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mrlawsuit&theme=github)"/>
-<img src="![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mrlawsuit&theme=github)"/>
-<img src="![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mrlawsuit&theme=github)"/>
-<img src="![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mrlawsuit&theme=github&utcOffset=8)"/>
+<div id="stat" align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrlawsuit&theme=github" alt=""/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mrlawsuit&theme=github" alt=""/>
+     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mrlawsuit&theme=github" alt=""/>
+</div>
