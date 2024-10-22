@@ -1,7 +1,7 @@
 <div id="header" align='center'>
     <h1>Привет, я Олег</h1>
     <h3>Backend разработчик на Python</h3>
-    <a href="www.linkedin.com/in/oleg-pronin">
+    <a href="https://www.linkedin.com/in/oleg-pronin/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     <a href="https://t.me/mr_losuit">
@@ -17,7 +17,7 @@
 - программирую на Python
 - изучаю web
 - регулярно открываю новые инструменты и возможности
-- можно связаться со мной через мой [линкедин](www.linkedin.com/in/oleg-pronin) или по [почте](mailto:opronin1992@gmail.com)
+- можно связаться со мной через мой [линкедин](https://www.linkedin.com/in/oleg-pronin/) или по [почте](mailto:opronin1992@gmail.com)
 
 ## **Мой стек технологий**
 
