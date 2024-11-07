@@ -37,6 +37,8 @@ title="py" width="60" height="60"/>&nbsp;
 title="py" width="60" height="60"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" 
 title="py" width="60" height="60"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kibana/kibana-original.svg" 
+title="py" width="60" height="60"/>&nbsp;
 
 ### **Статистика**
 
